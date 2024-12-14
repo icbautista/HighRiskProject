@@ -11,8 +11,8 @@ This repository is part of a project focused on analyzing clinical notes to iden
 2. [Dataset](#dataset)
 3. [Project Structure](#project-structure)
 4. [Pipeline Workflow](#pipeline-workflow)
-5. [Installation Guide](#installation-guide)
-6. [How to Run the Scripts](#how-to-run-the-scripts)
+5. [How to Run the Scripts](#how-to-run-the-scripts)
+6. [Installation Guide](#installation-guide)
 ---
 
 ## Project Overview
@@ -52,7 +52,7 @@ The project uses:
 
 ---
 
-## How to Run the Code
+## How to Run the Scripts
 Below are the step-by-step instructions to run the pipeline for the ScAN Suicide Analysis Project. Make sure to execute the scripts from the project's root directory unless otherwise specified.
 
 ### Preprocessing
@@ -93,7 +93,7 @@ Execute the script with:
    
    **Output**: The script will output the model's performance metrics and may include details such as accuracy, precision, recall, and F1 scores. Additionally, it might generate files with prediction results or save trained model weights, depending on the script's implementation. (Note: Specify the actual files/output if known). Purpose: This script leverages the power of RoBERTa for NLP tasks, focusing on classifying and evaluating high-risk profiles within the clinical notes data.
    
-## Installation
+## Installation Guide
 
 Follow the steps below to set up your environment for running the code in this repository.
 
