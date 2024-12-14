@@ -1,0 +1,1362 @@
+Processing note for subject_id: 57908, hadm_id: 182411
+=====================================================================
+Number of paragraphs being processed: 59
+Number of evidence sentences from annotations: 5
+ANNOTATED Evidence Sentence: 'She
+denies any significant depression or history of suicidal
+ideation or homicidal ideation'
+ANNOTATED Evidence Instance: 'Instance_603661'
+SA_CATEGORY - Neutral-SA, SI_CATEGORY - SI_Negative
+labels: 5
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'She denies taking these
+medications in an attempt to hurt herself and currently feels
+safe'
+ANNOTATED Evidence Instance: 'Instance_603662'
+SA_CATEGORY - SA_Negative, SI_CATEGORY - Neutral-SI
+labels: 2
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'She repeatedly denied active
+suicidal ideation, explaining that she was "just trying to get
+high."'
+ANNOTATED Evidence Instance: 'Instance_603658'
+SA_CATEGORY - SA_Negative, SI_CATEGORY - Neutral-SI
+labels: 2
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'She repeatedly denied active
+suicidal ideation, explaining that she was "just trying to get
+high."'
+ANNOTATED Evidence Instance: 'Instance_603659'
+SA_CATEGORY - Neutral-SA, SI_CATEGORY - SI_Negative
+labels: 5
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'Psychiatry felt that that the patient was not
+sectionable, but would benefit from dual diagnosis treatment
+course'
+ANNOTATED Evidence Instance: 'Instance_603660'
+SA_CATEGORY - SA_Negative, SI_CATEGORY - Neutral-SI
+labels: 2
+----------------------------------------------------------------------------------------------------
+Processing note for subject_id: 58278, hadm_id: 145733
+=====================================================================
+Number of paragraphs being processed: 80
+Number of evidence sentences from annotations: 11
+ANNOTATED Evidence Sentence: 'Encephalopathy after Quetiapine overdose'
+ANNOTATED Evidence Instance: 'Instance_603709'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'According to the family, he was found unresponsive at 7pm [**1-13**]
+with a suicide note and empty bottles of seroquel'
+ANNOTATED Evidence Instance: 'Instance_603710'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'By report, patient was found down with seroquel
+bottles nearby and suicide note'
+ANNOTATED Evidence Instance: 'Instance_603713'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'Patient found down after 8-10 hours
+clinical history is suggestive of ingestion of seroquel in
+overdose causing acutely depressed consciousness'
+ANNOTATED Evidence Instance: 'Instance_603714'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'seizure activity was likely precipitated
+by atypical antipsychotic overdose, he will likely not need
+anti-epileptics long term'
+ANNOTATED Evidence Instance: 'Instance_603715'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'seroquel overdose, staph aureus pneumonia'
+ANNOTATED Evidence Instance: 'Instance_603716'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'You
+were admitted to the hosptial because you overdosed on seroquel'
+ANNOTATED Evidence Instance: 'Instance_603717'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+Processing note for subject_id: 58389, hadm_id: 117815
+=====================================================================
+Number of paragraphs being processed: 433
+Number of evidence sentences from annotations: 257
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603798'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603799'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603800'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603801'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603802'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603803'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603804'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603805'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603808'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603809'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603810'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603817'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603818'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603819'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603820'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603821'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603823'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603824'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603825'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603826'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603827'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603828'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603829'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603830'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603832'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603833'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603834'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603835'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603836'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603837'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603838'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603839'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603841'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603842'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603843'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603844'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603845'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603850'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603852'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603853'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603854'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603855'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603870'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603871'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603882'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603883'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603884'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603911'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603912'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603913'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603914'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603933'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603934'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603935'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603936'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603937'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603938'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603939'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603942'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603949'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603950'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603951'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603952'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603953'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603956'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603957'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603958'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603959'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603960'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603963'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603964'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603965'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603966'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603967'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603969'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603970'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603971'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603986'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603987'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603988'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603989'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_604019'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603798'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603799'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603800'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603801'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603802'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603803'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603804'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603805'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603808'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603809'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603810'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603817'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603818'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603819'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603820'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603821'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603823'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603824'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603825'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603826'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603827'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603828'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603829'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603830'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603832'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603833'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603834'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603835'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603836'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603837'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603838'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603839'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603841'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603842'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603843'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603844'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603845'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603850'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603852'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603853'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603854'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603855'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603870'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603871'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603882'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603883'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603884'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603911'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603912'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603913'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603914'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603933'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603934'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603935'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603936'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603937'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603938'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603939'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603942'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603949'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603950'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603951'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603952'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603953'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603956'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603957'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603958'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603959'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603960'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603963'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603964'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603965'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603966'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603967'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603969'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603970'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603971'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603986'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603987'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603988'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603989'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_604019'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603798'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603799'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603800'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603801'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603802'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603803'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603804'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603805'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603808'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603809'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603810'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603817'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603818'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603819'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603820'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603821'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603823'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603824'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603825'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603826'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603827'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603828'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603829'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603830'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603832'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603833'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603834'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603835'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603836'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603837'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603838'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603839'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603841'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603842'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603843'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603844'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603845'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603850'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603852'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603853'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603854'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603855'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603870'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603871'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603882'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603883'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603884'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603911'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603912'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603913'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603914'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603933'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603934'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603935'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603936'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603937'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603938'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603939'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603942'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603949'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603950'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603951'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603952'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603953'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603956'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603957'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603958'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603959'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603960'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603963'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603964'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603965'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603966'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603967'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603969'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603970'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603971'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603986'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603987'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603988'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603989'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_604019'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603798'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603799'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603800'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603801'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603802'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603803'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603804'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603805'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI
+labels: 0
+----------------------------------------------------------------------------------------------------
+ANNOTATED Evidence Sentence: 'nan'
+ANNOTATED Evidence Instance: 'Instance_603808'
+SA_CATEGORY - SA_Positive, SI_CATEGORY - Neutral-SI

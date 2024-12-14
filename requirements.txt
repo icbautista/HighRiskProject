@@ -1,0 +1,18 @@
+# Essential libraries 
+re   # Part of Python standard library; no need to include in pip installation
+csv  # Part of Python standard library
+sys  # Part of Python standard library
+print  # Part of Python standard library
+
+# Logging utility
+logging  # Part of Python standard library
+
+# External Python libraries
+pandas>=1.4.0
+torch>=1.10.0
+transformers>=4.15.0
+tqdm>=4.62.0
+nltk>=3.6.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
