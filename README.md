@@ -91,7 +91,8 @@ Execute the script with:
    python scripts/Prediction_module_model.py
    ```
    
-   **Output**: The script will output the model's performance metrics and may include details such as accuracy, precision, recall, and F1 scores. Additionally, it might generate files with prediction results or save trained model weights, depending on the script's implementation. (Note: Specify the actual files/output if known). Purpose: This script leverages the power of RoBERTa for NLP tasks, focusing on classifying and evaluating high-risk profiles within the clinical notes data.
+   **Output**: The script will output the model's performance metrics and include details such as accuracy, precision, recall, and F1 scores. Additionally, it generates files with prediction results. 
+   **Purpose**: This script leverages the power of RoBERTa for NLP tasks, focusing on classifying and evaluating high-risk profiles within the clinical notes data.
    
 ## Installation Guide
 
